@@ -1,103 +1,150 @@
 {
-  "$jason": {
-    "head": {
-      "title": "Techmeme",
-      "description": "Techmeme river",
-      "preview": "https://s3-us-west-2.amazonaws.com/fm.ethan.jason/techmeme@2x.jpg",
-      "tags": [
-        "techmeme",
-        "html"
-      ],
-      "icon": "https://pbs.twimg.com/profile_images/1783187293/techmeme_tw_av_400x400",
-      "actions": {
-        "$pull": {
-          "trigger": "reload"
-        },
-        "$load": {
-          "trigger": "reload"
-        },
-        "reload": {
-          "type": "$network.request",
-          "options": {
-            "url": "http://techmeme.com/river",
-            "dataType": "html"
-          },
-          "success": {
-            "type": "$render",
-            "options": {
-              "type": "html"
-            }
-          }
-        }
-      },
-      "templates": {
-        "body": {
-          "nav": {
-            "style": {
-              "background": "#174a61",
-              "color": "#ffffff"
-            }
-          },
-          "style": {
-            "background": "#174a61",
-            "border": "0"
-          },
-          "sections": [
-            {
-              "items": {
-                "{{#each $jason.find('tr.ritem')}}": {
-                  "type": "horizontal",
-                  "style": {
-                    "padding": "30",
-                    "spacing": "20",
-                    "color": "#ffffff"
-                  },
-                  "href": {
-                    "view": "Web",
-                    "url": "{{$(this).find('td > a').attr('href')}}"
-                  },
-                  "components": [
-                    {
-                      "type": "vertical",
-                      "components": [
-                        {
-                          "type": "label",
-                          "text": "{{$(this).find('td > a').text()}}",
-                          "style": {
-                            "font": "HelveticaNeue-Bold",
-                            "color": "#ffffff",
-                            "size": "22"
-                          }
-                        },
-                        {
-                          "type": "label",
-                          "style": {
-                            "color": "#cccccc",
-                            "font": "HelveticaNeue",
-                            "height": "30",
-                            "size": "12"
-                          },
-                          "text": "{{$(this).find('cite').text()}}"
-                        },
-                        {
-                          "type": "label",
-                          "style": {
-                            "color": "#ffffff",
-                            "font": "HelveticaNeue",
-                            "height": "20",
-                            "size": "12"
-                          },
-                          "text": "{{$(this).find('td').first().text() + '  ' + $(this).closest('table').prev().text()}}"
-                        }
-                      ]
-                    }
-                  ]
+   "$jason": {
+       "head": {
+        "head": {
+            "title": "FinLit",
+            "description": "Techmeme river",
+            "preview": "https://s3-us-west-2.amazonaws.com/fm.ethan.jason/techmeme@2x.jpg",
+            "tags": [
+              "techmeme",
+              "html"
+            ],
+            "icon": "https://pbs.twimg.com/profile_images/1783187293/techmeme_tw_av_400x400",
+            "actions": {
+              "$pull": {
+                "trigger": "reload"
+              },
+              "$load": {
+                "trigger": "reload"
+              },
+              "reload": {
+                "type": "$network.request",
+                "options": {
+                  "url": "http://techmeme.com/river",
+                  "dataType": "html"
+                },
+                "success": {
+                  "type": "$render",
+                  "options": {
+                    "type": "html"
+                  }
                 }
               }
-            }
-          ]
-        }
-      }
-    }
-  }
+            },
+           "templates": {
+               "body": {
+                   "header": {
+                       "title": "News",
+                       "style": {
+                           "background": "#004987",
+                           "color": "#FFFFFF"
+                       }
+                   },
+                   "sections": [
+                    {
+                      "items": {
+                        "{{#each $jason.find('tr.ritem')}}": {
+                          "type": "horizontal",
+                          "style": {
+                            "padding": "30",
+                            "spacing": "20",
+                            "color": "#ffffff"
+                          },
+                          "href": {
+                            "view": "Web",
+                            "url": "{{$(this).find('td > a').attr('href')}}"
+                          },
+                          "components": [
+                            {
+                              "type": "vertical",
+                              "components": [
+                                {
+                                  "type": "label",
+                                  "text": "{{$(this).find('td > a').text()}}",
+                                  "style": {
+                                    "font": "HelveticaNeue-Bold",
+                                    "color": "#ffffff",
+                                    "size": "22"
+                                  }
+                                },
+                                {
+                                  "type": "label",
+                                  "style": {
+                                    "color": "#cccccc",
+                                    "font": "HelveticaNeue",
+                                    "height": "30",
+                                    "size": "12"
+                                  },
+                                  "text": "{{$(this).find('cite').text()}}"
+                                },
+                                {
+                                  "type": "label",
+                                  "style": {
+                                    "color": "#ffffff",
+                                    "font": "HelveticaNeue",
+                                    "height": "20",
+                                    "size": "12"
+                                  },
+                                  "text": "{{$(this).find('td').first().text() + '  ' + $(this).closest('table').prev().text()}}"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ],
+                   "footer": {
+                       "tabs": {
+                           "style": {
+                               "background": "#ffffff"
+                           },
+                           "items": [
+                               {
+                                   "image": "https://png.icons8.com/ios/50/000000/news.png",
+                                   "text": "News",
+                                   "style": {
+                                       "height": "21"
+                                   },
+                                   "url": "https://bin.fo/mcc-jason/app_mcc_news"
+                               },
+                               {
+                                   "image": "https://png.icons8.com/ios/50/000000/department.png",
+                                   "text": "Budget",
+                                   "style": {
+                                       "height": "21"
+                                   },
+                                   "url": "https://bin.fo/mcc-jason/app_mcc_departments"
+                               },
+                               {
+                                   "image": "https://png.icons8.com/ios/50/000000/service.png",
+                                   "text": "Financial",
+                                   "style": {
+                                       "height": "21"
+                                   },
+                                   "url": "https://bin.fo/mcc-jason/app_mcc_services"
+                               },
+                               {
+                                   "image": "https://png.icons8.com/wired/50/000000/map.png",
+                                   "text": "Books",
+                                   "style": {
+                                       "height": "21"
+                                   },
+                                   "url": "https://www.jasonclient.org/next.json"
+                               },
+                               {
+                                   "image": "https://png.icons8.com/ios/50/000000/online-payment-with-a-credit-card.png",
+                                   "text": "Advisors",
+                                   "style": {
+                                       "height": "21"
+                                   },
+                                   "url": "https://www.jasonclient.org/next.json"
+                               }
+                           ]
+                       }
+                   }
+               }
+           }
+       }
+   }
 }
