@@ -1,7 +1,7 @@
 {
   "$jason": {
     "head": {
-      "title": "Background",
+      "title": "",
       "actions": {
         "notify": {
           "type": "$utill.alert"
@@ -19,7 +19,7 @@
       },
       "background": {
         "type": "html",
-        "url": "https://drsebiscellfood.com/wp-content/uploads/2016/12/Nutritional_Guide.pdf",
+        "url": "{{url}}",
         "id": "app",
         "action": {
           "trigger": "notify"
