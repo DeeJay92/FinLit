@@ -195,7 +195,7 @@
                 "style": {
                   "background": "#ffffff",
                   "font": "HelveticaNeue-CondensedBold",
-                  "padding": "10",
+                  "padding": "5",
                   "color": "#000000",
                   "size": "20"
                 }
@@ -204,13 +204,14 @@
                 "{{#each markets}}": {
                   "type": "horizontal",
                   "style": {
-                    "padding": "10",
+                    "padding": "5",
                     "spacing": "10"
                   },
                   "components": [
                     {
                       "type": "label",
                       "style": {
+                        "padding": "5",
                         "size": "14",
                         "color": "#000000"
                       },
@@ -249,7 +250,7 @@
                 "style": {
                   "background": "#ffffff",
                   "font": "HelveticaNeue-CondensedBold",
-                  "padding": "10",
+                  "padding": "5",
                   "color": "#000000",
                   "size": "20"
                 }
@@ -258,13 +259,14 @@
                 "{{#each economy}}": {
                   "type": "horizontal",
                   "style": {
-                    "padding": "10",
+                    "padding": "5",
                     "spacing": "10"
                   },
                   "components": [
                     {
                       "type": "label",
                       "style": {
+                        "padding": "5",
                         "size": "14"
                       },
                       "text": "{{title}}"
@@ -295,7 +297,7 @@
                 "style": {
                   "background": "#ffffff",
                   "font": "HelveticaNeue-CondensedBold",
-                  "padding": "10",
+                  "padding": "5",
                   "color": "#000000",
                   "size": "20"
                 }
@@ -304,13 +306,14 @@
                 "{{#each business}}": {
                   "type": "horizontal",
                   "style": {
-                    "padding": "10",
+                    "padding": "5",
                     "spacing": "10"
                   },
                   "components": [
                     {
                       "type": "label",
                       "style": {
+                        "padding": "5",
                         "size": "14"
                       },
                       "text": "{{title}}"
@@ -341,7 +344,7 @@
                 "style": {
                   "background": "#ffffff",
                   "font": "HelveticaNeue-CondensedBold",
-                  "padding": "10",
+                  "padding": "5",
                   "color": "#000000",
                   "size": "20"
                 }
@@ -350,13 +353,14 @@
                 "{{#each investments}}": {
                   "type": "horizontal",
                   "style": {
-                    "padding": "10",
+                    "padding": "5",
                     "spacing": "10"
                   },
                   "components": [
                     {
                       "type": "label",
                       "style": {
+                        "padding": "5",
                         "size": "14"
                       },
                       "text": "{{title}}"
@@ -387,7 +391,7 @@
                 "style": {
                   "background": "#ffffff",
                   "font": "HelveticaNeue-CondensedBold",
-                  "padding": "10",
+                  "padding": "5",
                   "color": "#000000",
                   "size": "20"
                 }
@@ -396,13 +400,14 @@
                 "{{#each cryptoCurrency}}": {
                   "type": "horizontal",
                   "style": {
-                    "padding": "10",
+                    "padding": "5",
                     "spacing": "10"
                   },
                   "components": [
                     {
                       "type": "label",
                       "style": {
+                        "padding": "5",
                         "size": "14"
                       },
                       "text": "{{title}}"
