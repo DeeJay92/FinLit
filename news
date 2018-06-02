@@ -1,489 +1,482 @@
 {
-  "$jason": {
-    "head": {
-      "title": "FinLit",
-      "data": {
-        "markets": [
-          {
-            "albumId": 1,
-            "id": 1,
-            "title": "Start-up exchange looking to eat JSE's lunch with cheaper costs",
-            "url": "https://github.com/Jasonette/Jasonpedia/blob/gh-pages/view/footer/tabs.json",
-            "thumbnailUrl": "https://cdn.24.co.za/files/Cms/General/d/7005/ba35ccd9f99247f4bcdf4627632d3e10.jpg"
-          },
-          {
-            "albumId": 1,
-            "id": 2,
-            "title": "JSE tracks global markets weaker as Italian situation worsens",
-            "url": "https://www.fin24.com/Markets/Equities/jse-tracks-global-markets-weaker-as-italian-situation-worsens-20180529",
-            "thumbnailUrl": "https://cdn.24.co.za/files/Cms/General/d/6912/f94e0ce589274d4d83bdb1225f1d6981.jpg"
-          },
-          {
-            "albumId": 1,
-            "id": 3,
-            "title": "Rand feels pain as Italy crisis pounds euro",
-            "url": "http://placehold.it/600/24f355",
-            "thumbnailUrl": "https://cdn.24.co.za/files/Cms/General/d/2113/d7a6fbb71d5149fa8d6c293de6029a45.jpg"
-          },
-          {
-            "albumId": 1,
-            "id": 4,
-            "title": "JSE subdued as global equities remain on edge",
-            "url": "http://placehold.it/600/d32776",
-            "thumbnailUrl": "https://cdn.24.co.za/files/Cms/General/d/2189/052eee44ef4b4bd7b9f69c76e0c86f5f.jpg"
-          }
-        ],
-        "economy": [
-          {
-            "albumId": 1,
-            "id": 1,
-            "title": "accusamus beatae ad facilis cum similique qui sunt",
-            "url": "http://placehold.it/600/92c952",
-            "thumbnailUrl": "http://placehold.it/150/92c952"
-          },
-          {
-            "albumId": 1,
-            "id": 2,
-            "title": "reprehenderit est deserunt velit ipsam",
-            "url": "http://placehold.it/600/771796",
-            "thumbnailUrl": "http://placehold.it/150/771796"
-          },
-          {
-            "albumId": 1,
-            "id": 3,
-            "title": "officia porro iure quia iusto qui ipsa ut modi",
-            "url": "http://placehold.it/600/24f355",
-            "thumbnailUrl": "http://placehold.it/150/24f355"
-          },
-          {
-            "albumId": 1,
-            "id": 4,
-            "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
-            "url": "http://placehold.it/600/d32776",
-            "thumbnailUrl": "http://placehold.it/150/d32776"
-          }
-        ],
-        "business": [
-          {
-            "albumId": 1,
-            "id": 5,
-            "title": "accusamus beatae ad facilis cum similique qui sunt",
-            "url": "http://placehold.it/600/92c952",
-            "thumbnailUrl": "http://placehold.it/150/92c952"
-          },
-          {
-            "albumId": 1,
-            "id": 6,
-            "title": "reprehenderit est deserunt velit ipsam",
-            "url": "http://placehold.it/600/771796",
-            "thumbnailUrl": "http://placehold.it/150/771796"
-          },
-          {
-            "albumId": 1,
-            "id": 7,
-            "title": "officia porro iure quia iusto qui ipsa ut modi",
-            "url": "http://placehold.it/600/24f355",
-            "thumbnailUrl": "http://placehold.it/150/24f355"
-          },
-          {
-            "albumId": 1,
-            "id": 8,
-            "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
-            "url": "http://placehold.it/600/d32776",
-            "thumbnailUrl": "http://placehold.it/150/d32776"
-          }
-        ],
-        "investments": [
-          {
-            "albumId": 1,
-            "id": 9,
-            "title": "Joburg’s top investment-grade suburbs",
-            "url": "http://placehold.it/600/92c952",
-            "thumbnailUrl": "https://cdn.24.co.za/files/Cms/General/d/7348/333c9768d2a24425aa4285ad731fe2ea.jpg"
-          },
-          {
-            "albumId": 1,
-            "id": 10,
-            "title": "Irma Stern works never before seen in public up for auction",
-            "url": "http://placehold.it/600/771796",
-            "thumbnailUrl": "https://cdn.24.co.za/files/Cms/General/d/7472/5fb151a00577419ab150c38323ef4038.jpg"
-          },
-          {
-            "albumId": 1,
-            "id": 11,
-            "title": "officia porro iure quia iusto qui ipsa ut modi",
-            "url": "http://placehold.it/600/24f355",
-            "thumbnailUrl": "http://placehold.it/150/24f355"
-          },
-          {
-            "albumId": 1,
-            "id": 12,
-            "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
-            "url": "http://placehold.it/600/d32776",
-            "thumbnailUrl": "http://placehold.it/150/d32776"
-          }
-        ],
-        "cryptoCurrency": [
-          {
-            "albumId": 1,
-            "id": 13,
-            "title": "accusamus beatae ad facilis cum similique qui sunt",
-            "url": "http://placehold.it/600/92c952",
-            "thumbnailUrl": "http://placehold.it/150/92c952"
-          },
-          {
-            "albumId": 1,
-            "id": 14,
-            "title": "reprehenderit est deserunt velit ipsam",
-            "url": "http://placehold.it/600/771796",
-            "thumbnailUrl": "http://placehold.it/150/771796"
-          },
-          {
-            "albumId": 1,
-            "id": 15,
-            "title": "officia porro iure quia iusto qui ipsa ut modi",
-            "url": "http://placehold.it/600/24f355",
-            "thumbnailUrl": "http://placehold.it/150/24f355"
-          },
-          {
-            "albumId": 1,
-            "id": 15,
-            "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
-            "url": "http://placehold.it/600/d32776",
-            "thumbnailUrl": "http://placehold.it/150/d32776"
-          }
-        ]
-      },
-      "actions": {
-        "$load": {
-          "type": "$network.request",
-          "options": {
-            "url": "{{url}}"
-          },
-          "success": {
-            "type": "$render"
-          }
-        }
-      },
-      "templates": {
-        "body": {
-          "header": {
-            "style": {
-              "background": "#3e6901",
-              "color": "#ffffff"
-            },
-            "title": {
-              "type": "image",
-              "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/logo-4.png"
-            },
-            "menu": {
-              "image": "https://png.icons8.com/ios/60/000000/menu-filled.png",
-              "style": {
-                "color": "#ffffff"
-              },
-              "href": {
-                "url": "https://github.com/Jasonette/Jasonpedia/blob/gh-pages/view/footer/tabs.json",
-                "view": "web"
-              }
-            }
-          },
-          "sections": [
+    "$jason": {
+      "head": {
+        "title": "FinLit",
+        "data": {
+          "markets": [
             {
-              "header": {
-                "type": "label",
-                "text": "Markets",
-                "style": {
-                  "background": "#ffffff",
-                  "font": "HelveticaNeue-CondensedBold",
-                  "padding": "5",
-                  "color": "#000000",
-                  "size": "20"
-                }
-              },
-              "items": {
-                "{{#each markets}}": {
-                  "type": "horizontal",
-                  "style": {
-                    "padding": "5",
-                    "spacing": "10"
-                  },
-                  "components": [
-                    {
-                      "type": "label",
-                      "style": {
-                        "padding": "5",
-                        "size": "14",
-                        "color": "#000000"
-                      },
-                      "text": "{{title}}",
-                      "action": {
-                        "type": "$href",
-                        "options": {
-                          "url": "{{url}}",
-                          "view": "web"
-                        }
-                      }
-                    },
-                    {
-                      "type": "image",
-                      "style": {
-                        "width": "90",
-                        "align": "right"
-                      },
-                      "url": "{{thumbnailUrl}}"
-                    }
-                  ],
-                  "action": {
-                    "type": "$widget.banner",
-                    "options": {
-                      "title": "You selected",
-                      "description": "{{title}}"
-                    }
-                  }
-                }
-              }
+              "albumId": 1,
+              "id": 1,
+              "title": "Start-up exchange looking to eat JSE's lunch with cheaper costs",
+              "url": "https://github.com/Jasonette/Jasonpedia/blob/gh-pages/view/footer/tabs.json",
+              "thumbnailUrl": "https://cdn.24.co.za/files/Cms/General/d/7005/ba35ccd9f99247f4bcdf4627632d3e10.jpg"
             },
             {
-              "header": {
-                "type": "label",
-                "text": "Economy",
-                "style": {
-                  "background": "#ffffff",
-                  "font": "HelveticaNeue-CondensedBold",
-                  "padding": "5",
-                  "color": "#000000",
-                  "size": "20"
-                }
-              },
-              "items": {
-                "{{#each economy}}": {
-                  "type": "horizontal",
-                  "style": {
-                    "padding": "5",
-                    "spacing": "10"
-                  },
-                  "components": [
-                    {
-                      "type": "label",
-                      "style": {
-                        "padding": "5",
-                        "size": "14"
-                      },
-                      "text": "{{title}}"
-                    },
-                    {
-                      "type": "image",
-                      "style": {
-                        "width": "90",
-                        "align": "right"
-                      },
-                      "url": "{{thumbnailUrl}}"
-                    }
-                  ],
-                  "action": {
-                    "type": "$widget.banner",
-                    "options": {
-                      "title": "You selected",
-                      "description": "{{title}}"
-                    }
-                  }
-                }
-              }
+              "albumId": 1,
+              "id": 2,
+              "title": "JSE tracks global markets weaker as Italian situation worsens",
+              "url": "https://www.fin24.com/Markets/Equities/jse-tracks-global-markets-weaker-as-italian-situation-worsens-20180529",
+              "thumbnailUrl": "https://cdn.24.co.za/files/Cms/General/d/6912/f94e0ce589274d4d83bdb1225f1d6981.jpg"
             },
             {
-              "header": {
-                "type": "label",
-                "text": "Business",
-                "style": {
-                  "background": "#ffffff",
-                  "font": "HelveticaNeue-CondensedBold",
-                  "padding": "5",
-                  "color": "#000000",
-                  "size": "20"
-                }
-              },
-              "items": {
-                "{{#each business}}": {
-                  "type": "horizontal",
-                  "style": {
-                    "padding": "5",
-                    "spacing": "10"
-                  },
-                  "components": [
-                    {
-                      "type": "label",
-                      "style": {
-                        "padding": "5",
-                        "size": "14"
-                      },
-                      "text": "{{title}}"
-                    },
-                    {
-                      "type": "image",
-                      "style": {
-                        "width": "90",
-                        "align": "right"
-                      },
-                      "url": "{{thumbnailUrl}}"
-                    }
-                  ],
-                  "action": {
-                    "type": "$widget.banner",
-                    "options": {
-                      "title": "You selected",
-                      "description": "{{title}}"
-                    }
-                  }
-                }
-              }
+              "albumId": 1,
+              "id": 3,
+              "title": "Rand feels pain as Italy crisis pounds euro",
+              "url": "http://placehold.it/600/24f355",
+              "thumbnailUrl": "https://cdn.24.co.za/files/Cms/General/d/2113/d7a6fbb71d5149fa8d6c293de6029a45.jpg"
             },
             {
-              "header": {
-                "type": "label",
-                "text": "Investments",
-                "style": {
-                  "background": "#ffffff",
-                  "font": "HelveticaNeue-CondensedBold",
-                  "padding": "5",
-                  "color": "#000000",
-                  "size": "20"
-                }
-              },
-              "items": {
-                "{{#each investments}}": {
-                  "type": "horizontal",
-                  "style": {
-                    "padding": "5",
-                    "spacing": "10"
-                  },
-                  "components": [
-                    {
-                      "type": "label",
-                      "style": {
-                        "padding": "5",
-                        "size": "14"
-                      },
-                      "text": "{{title}}"
-                    },
-                    {
-                      "type": "image",
-                      "style": {
-                        "width": "90",
-                        "align": "right"
-                      },
-                      "url": "{{thumbnailUrl}}"
-                    }
-                  ],
-                  "action": {
-                    "type": "$widget.banner",
-                    "options": {
-                      "title": "You selected",
-                      "description": "{{title}}"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "header": {
-                "type": "label",
-                "text": "Crypto Currency",
-                "style": {
-                  "background": "#ffffff",
-                  "font": "HelveticaNeue-CondensedBold",
-                  "padding": "5",
-                  "color": "#000000",
-                  "size": "20"
-                }
-              },
-              "items": {
-                "{{#each cryptoCurrency}}": {
-                  "type": "horizontal",
-                  "style": {
-                    "padding": "5",
-                    "spacing": "10"
-                  },
-                  "components": [
-                    {
-                      "type": "label",
-                      "style": {
-                        "padding": "5",
-                        "size": "14"
-                      },
-                      "text": "{{title}}"
-                    },
-                    {
-                      "type": "image",
-                      "style": {
-                        "width": "90",
-                        "align": "right"
-                      },
-                      "url": "{{thumbnailUrl}}"
-                    }
-                  ],
-                  "action": {
-                    "type": "$widget.banner",
-                    "options": {
-                      "title": "You selected",
-                      "description": "{{title}}"
-                    }
-                  }
-                }
-              }
+              "albumId": 1,
+              "id": 4,
+              "title": "JSE subdued as global equities remain on edge",
+              "url": "http://placehold.it/600/d32776",
+              "thumbnailUrl": "https://cdn.24.co.za/files/Cms/General/d/2189/052eee44ef4b4bd7b9f69c76e0c86f5f.jpg"
             }
           ],
-          "footer": {
-            "tabs": {
+          "economy": [
+            {
+              "albumId": 1,
+              "id": 1,
+              "title": "accusamus beatae ad facilis cum similique qui sunt",
+              "url": "http://placehold.it/600/92c952",
+              "thumbnailUrl": "http://placehold.it/150/92c952"
+            },
+            {
+              "albumId": 1,
+              "id": 2,
+              "title": "reprehenderit est deserunt velit ipsam",
+              "url": "http://placehold.it/600/771796",
+              "thumbnailUrl": "http://placehold.it/150/771796"
+            },
+            {
+              "albumId": 1,
+              "id": 3,
+              "title": "officia porro iure quia iusto qui ipsa ut modi",
+              "url": "http://placehold.it/600/24f355",
+              "thumbnailUrl": "http://placehold.it/150/24f355"
+            },
+            {
+              "albumId": 1,
+              "id": 4,
+              "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+              "url": "http://placehold.it/600/d32776",
+              "thumbnailUrl": "http://placehold.it/150/d32776"
+            }
+          ],
+          "business": [
+            {
+              "albumId": 1,
+              "id": 5,
+              "title": "accusamus beatae ad facilis cum similique qui sunt",
+              "url": "http://placehold.it/600/92c952",
+              "thumbnailUrl": "http://placehold.it/150/92c952"
+            },
+            {
+              "albumId": 1,
+              "id": 6,
+              "title": "reprehenderit est deserunt velit ipsam",
+              "url": "http://placehold.it/600/771796",
+              "thumbnailUrl": "http://placehold.it/150/771796"
+            },
+            {
+              "albumId": 1,
+              "id": 7,
+              "title": "officia porro iure quia iusto qui ipsa ut modi",
+              "url": "http://placehold.it/600/24f355",
+              "thumbnailUrl": "http://placehold.it/150/24f355"
+            },
+            {
+              "albumId": 1,
+              "id": 8,
+              "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+              "url": "http://placehold.it/600/d32776",
+              "thumbnailUrl": "http://placehold.it/150/d32776"
+            }
+          ],
+          "investments": [
+            {
+              "albumId": 1,
+              "id": 9,
+              "title": "Joburg’s top investment-grade suburbs",
+              "url": "http://placehold.it/600/92c952",
+              "thumbnailUrl": "https://cdn.24.co.za/files/Cms/General/d/7348/333c9768d2a24425aa4285ad731fe2ea.jpg"
+            },
+            {
+              "albumId": 1,
+              "id": 10,
+              "title": "Irma Stern works never before seen in public up for auction",
+              "url": "http://placehold.it/600/771796",
+              "thumbnailUrl": "https://cdn.24.co.za/files/Cms/General/d/7472/5fb151a00577419ab150c38323ef4038.jpg"
+            },
+            {
+              "albumId": 1,
+              "id": 11,
+              "title": "officia porro iure quia iusto qui ipsa ut modi",
+              "url": "http://placehold.it/600/24f355",
+              "thumbnailUrl": "http://placehold.it/150/24f355"
+            },
+            {
+              "albumId": 1,
+              "id": 12,
+              "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+              "url": "http://placehold.it/600/d32776",
+              "thumbnailUrl": "http://placehold.it/150/d32776"
+            }
+          ],
+          "cryptoCurrency": [
+            {
+              "albumId": 1,
+              "id": 13,
+              "title": "accusamus beatae ad facilis cum similique qui sunt",
+              "url": "http://placehold.it/600/92c952",
+              "thumbnailUrl": "http://placehold.it/150/92c952"
+            },
+            {
+              "albumId": 1,
+              "id": 14,
+              "title": "reprehenderit est deserunt velit ipsam",
+              "url": "http://placehold.it/600/771796",
+              "thumbnailUrl": "http://placehold.it/150/771796"
+            },
+            {
+              "albumId": 1,
+              "id": 15,
+              "title": "officia porro iure quia iusto qui ipsa ut modi",
+              "url": "http://placehold.it/600/24f355",
+              "thumbnailUrl": "http://placehold.it/150/24f355"
+            },
+            {
+              "albumId": 1,
+              "id": 15,
+              "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+              "url": "http://placehold.it/600/d32776",
+              "thumbnailUrl": "http://placehold.it/150/d32776"
+            }
+          ]
+        },
+        "actions": {
+          "$load": {
+            "type": "$network.request",
+            "options": {
+              "url": "{{url}}"
+            },
+            "success": {
+              "type": "$render"
+            }
+          }
+        },
+        "templates": {
+          "body": {
+            "header": {
               "style": {
-                "background": "#ffffff",
-                "color": "#3e6901"
+                "background": "#3e6901",
+                "color": "#ffffff"
               },
-              "items": [
-                {
-                  "image": "https://png.icons8.com/ios-glyphs/60/000000/news.png",
-                  "text": "News",
-                  "style": {
-                    "height": "21"
-                  },
-                  "url": "https://www.jasonbase.com/things/8ogb.json"
+              "title": {
+                "type": "image",
+                "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/logo-4.png"
+              },
+              "menu": {
+                "image": "https://png.icons8.com/ios/60/000000/menu-filled.png",
+                "style": {
+                  "color": "#ffffff"
                 },
-                {
-                  "image": "https://png.icons8.com/ios-glyphs/60/000000/budget.png",
-                  "text": "Budget",
-                  "style": {
-                    "height": "21"
-                  },
-                  "url": ""
-                },
-                {
-                  "image": "https://png.icons8.com/ios-glyphs/60/000000/calculator.png",
-                  "text": "Fin Calc",
-                  "style": {
-                    "height": "21"
-                  },
-                  "url": ""
-                },
-                {
-                  "image": "https://png.icons8.com/ios-glyphs/60/000000/books.png",
-                  "text": "Books",
-                  "style": {
-                    "height": "21"
-                  },
-                  "url": ""
-                },
-                {
-                  "image": "https://png.icons8.com/ios-glyphs/60/000000/consultation.png",
-                  "text": "Advisors",
-                  "style": {
-                    "height": "21"
-                  },
-                  "url": ""
+                "href": {
+                  "url": "https://github.com/Jasonette/Jasonpedia/blob/gh-pages/view/footer/tabs.json",
+                  "view": "web"
                 }
-              ]
+              }
+            },
+            "sections": [
+              {
+                "header": {
+                  "type": "label",
+                  "text": "Markets",
+                  "style": {
+                    "background": "#ffffff",
+                    "font": "HelveticaNeue-CondensedBold",
+                    "padding": "5",
+                    "color": "#000000",
+                    "size": "20"
+                  }
+                },
+                "items": {
+                  "{{#each markets}}": {
+                    "type": "horizontal",
+                    "style": {
+                      "padding": "5",
+                      "spacing": "10"
+                    },
+                    "action": {
+                      "type": "$href",
+                      "options": {
+                        "url": "{{url}}",
+                        "view": "web"
+                      }
+                    },
+                    "components": [
+                      {
+                        "type": "label",
+                        "style": {
+                          "padding": "5",
+                          "size": "14",
+                          "color": "#000000"
+                        },
+                        "text": "{{title}}"
+                      },
+                      {
+                        "type": "image",
+                        "style": {
+                          "width": "90",
+                          "align": "right"
+                        },
+                        "url": "{{thumbnailUrl}}"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "header": {
+                  "type": "label",
+                  "text": "Economy",
+                  "style": {
+                    "background": "#ffffff",
+                    "font": "HelveticaNeue-CondensedBold",
+                    "padding": "5",
+                    "color": "#000000",
+                    "size": "20"
+                  }
+                },
+                "items": {
+                  "{{#each economy}}": {
+                    "type": "horizontal",
+                    "style": {
+                      "padding": "5",
+                      "spacing": "10"
+                    },
+                    "action": {
+                      "type": "$href",
+                      "options": {
+                        "url": "{{url}}",
+                        "view": "web"
+                      }
+                    },
+                    "components": [
+                      {
+                        "type": "label",
+                        "style": {
+                          "padding": "5",
+                          "size": "14"
+                        },
+                        "text": "{{title}}"
+                      },
+                      {
+                        "type": "image",
+                        "style": {
+                          "width": "90",
+                          "align": "right"
+                        },
+                        "url": "{{thumbnailUrl}}"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "header": {
+                  "type": "label",
+                  "text": "Business",
+                  "style": {
+                    "background": "#ffffff",
+                    "font": "HelveticaNeue-CondensedBold",
+                    "padding": "5",
+                    "color": "#000000",
+                    "size": "20"
+                  }
+                },
+                "items": {
+                  "{{#each business}}": {
+                    "type": "horizontal",
+                    "style": {
+                      "padding": "5",
+                      "spacing": "10"
+                    },
+                    "action": {
+                      "type": "$href",
+                      "options": {
+                        "url": "{{url}}",
+                        "view": "web"
+                      }
+                    },
+                    "components": [
+                      {
+                        "type": "label",
+                        "style": {
+                          "padding": "5",
+                          "size": "14"
+                        },
+                        "text": "{{title}}"
+                      },
+                      {
+                        "type": "image",
+                        "style": {
+                          "width": "90",
+                          "align": "right"
+                        },
+                        "url": "{{thumbnailUrl}}"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "header": {
+                  "type": "label",
+                  "text": "Investments",
+                  "style": {
+                    "background": "#ffffff",
+                    "font": "HelveticaNeue-CondensedBold",
+                    "padding": "5",
+                    "color": "#000000",
+                    "size": "20"
+                  }
+                },
+                "items": {
+                  "{{#each investments}}": {
+                    "type": "horizontal",
+                    "style": {
+                      "padding": "5",
+                      "spacing": "10"
+                    },
+                    "action": {
+                      "type": "$href",
+                      "options": {
+                        "url": "{{url}}",
+                        "view": "web"
+                      }
+                    },
+                    "components": [
+                      {
+                        "type": "label",
+                        "style": {
+                          "padding": "5",
+                          "size": "14"
+                        },
+                        "text": "{{title}}"
+                      },
+                      {
+                        "type": "image",
+                        "style": {
+                          "width": "90",
+                          "align": "right"
+                        },
+                        "url": "{{thumbnailUrl}}"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "header": {
+                  "type": "label",
+                  "text": "Crypto Currency",
+                  "style": {
+                    "background": "#ffffff",
+                    "font": "HelveticaNeue-CondensedBold",
+                    "padding": "5",
+                    "color": "#000000",
+                    "size": "20"
+                  }
+                },
+                "items": {
+                  "{{#each cryptoCurrency}}": {
+                    "type": "horizontal",
+                    "style": {
+                      "padding": "5",
+                      "spacing": "10"
+                    },
+                    "action": {
+                      "type": "$href",
+                      "options": {
+                        "url": "{{url}}",
+                        "view": "web"
+                      }
+                    },
+                    "components": [
+                      {
+                        "type": "label",
+                        "style": {
+                          "padding": "5",
+                          "size": "14"
+                        },
+                        "text": "{{title}}"
+                      },
+                      {
+                        "type": "image",
+                        "style": {
+                          "width": "90",
+                          "align": "right"
+                        },
+                        "url": "{{thumbnailUrl}}"
+                      }
+                    ]
+                  }
+                }
+              }
+            ],
+            "footer": {
+              "tabs": {
+                "style": {
+                  "background": "#ffffff",
+                  "color": "#3e6901"
+                },
+                "items": [
+                  {
+                    "image": "https://png.icons8.com/ios-glyphs/60/000000/news.png",
+                    "text": "News",
+                    "style": {
+                      "height": "21"
+                    },
+                    "url": "https://www.jasonbase.com/things/QBVl.json"
+                  },
+                  {
+                    "image": "https://png.icons8.com/ios-glyphs/60/000000/budget.png",
+                    "text": "Budget",
+                    "style": {
+                      "height": "21"
+                    },
+                    "url": ""
+                  },
+                  {
+                    "image": "https://png.icons8.com/ios-glyphs/60/000000/calculator.png",
+                    "text": "Fin Calc",
+                    "style": {
+                      "height": "21"
+                    },
+                    "url": ""
+                  },
+                  {
+                    "image": "https://png.icons8.com/ios-glyphs/60/000000/books.png",
+                    "text": "Books",
+                    "style": {
+                      "height": "21"
+                    },
+                    "url": ""
+                  },
+                  {
+                    "image": "https://png.icons8.com/ios-glyphs/60/000000/consultation.png",
+                    "text": "Advisors",
+                    "style": {
+                      "height": "21"
+                    },
+                    "url": "https://www.jasonbase.com/things/8oKm.json"
+                  }
+                ]
+              }
             }
           }
         }
       }
     }
   }
-}
