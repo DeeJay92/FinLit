@@ -1,0 +1,111 @@
+{
+    "$jason": {
+      "head": {
+        "title": "Advisors",
+        "actions": {
+          "$load": {
+            "type": "$render"
+          }
+        },
+        "templates": {
+          "body": {
+            "header": {
+              "title": "Financial Advisors",
+              "style": {
+                "background": "#3e6901",
+                "color": "#ffffff"
+              }
+            },
+            "sections": [
+              {
+                "header": {
+                  "type": "label",
+                  "text": "GraySwan Investments",
+                  "style": {
+                    "background": "#ffffff",
+                    "font": "HelveticaNeue-CondensedBold",
+                    "padding": "5",
+                    "color": "#3e6901",
+                    "size": "20"
+                  }
+                },
+                "items": [
+                  {
+                    "type": "map",
+                    "region": {
+                      "coord": "40.7197614,-73.9909211",
+                      "width": "100",
+                      "height": "50"
+                    },
+                    "pins": [
+                      {
+                        "title": "GraySwan Investments",
+                        "coord": "40.7197614,-73.9909211",
+                        "style": {
+                          "selected": "true"
+                        }
+                      }
+                    ],
+                    "style": {
+                      "width": "100%",
+                      "height": "250"
+                    }
+                  }
+                ]
+              }
+            ],
+            "footer": {
+              "tabs": {
+                "style": {
+                  "background": "#ffffff",
+                  "color": "#3e6901"
+                },
+                "items": [
+                  {
+                    "image": "https://png.icons8.com/ios-glyphs/60/000000/news.png",
+                    "text": "News",
+                    "style": {
+                      "height": "21"
+                    },
+                    "url": "https://www.jasonbase.com/things/QBVl.json"
+                  },
+                  {
+                    "image": "https://png.icons8.com/ios-glyphs/60/000000/budget.png",
+                    "text": "Budget",
+                    "style": {
+                      "height": "21"
+                    },
+                    "url": ""
+                  },
+                  {
+                    "image": "https://png.icons8.com/ios-glyphs/60/000000/calculator.png",
+                    "text": "Fin Calc",
+                    "style": {
+                      "height": "21"
+                    },
+                    "url": ""
+                  },
+                  {
+                    "image": "https://png.icons8.com/ios-glyphs/60/000000/books.png",
+                    "text": "Books",
+                    "style": {
+                      "height": "21"
+                    },
+                    "url": ""
+                  },
+                  {
+                    "image": "https://png.icons8.com/ios-glyphs/60/000000/consultation.png",
+                    "text": "Advisors",
+                    "style": {
+                      "height": "21"
+                    },
+                    "url": "https://www.jasonbase.com/things/8oKm.json"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
