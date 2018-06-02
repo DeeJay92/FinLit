@@ -1,0 +1,30 @@
+{
+  "$jason": {
+    "head": {
+      "title": "Background",
+      "actions": {
+        "notify": {
+          "type": "$utill.alert"
+        }
+      }
+    },
+    "body": {
+      "header": {
+        "style": {
+          "shy": "true",
+          "background": "#004987",
+          "color": "#FFFFFF"
+        },
+        "title": "News"
+      },
+      "background": {
+        "type": "html",
+        "url": "https://drsebiscellfood.com/wp-content/uploads/2016/12/Nutritional_Guide.pdf",
+        "id": "app",
+        "action": {
+          "trigger": "notify"
+        }
+      }
+    }
+  }
+}
