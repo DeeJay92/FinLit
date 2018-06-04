@@ -1,0 +1,29 @@
+{
+    "$jason": {
+        "head": {
+            "title": "",
+            "actions": {
+                "notify": {
+                    "type": "$utill.alert"
+                }
+            }
+        },
+        "body": {
+            "header": {
+                "style": {
+                    "background": "#3e6901",
+                    "color": "#ffffff"
+                },
+                "title": "Books"
+            },
+            "background": {
+                "type": "html",
+                "url": "https://chaseprivateequity.com/wp-content/uploads/2016/09/Personal-Finance.pdf",
+                "id": "app",
+                "action": {
+                    "trigger": "notify"
+                }
+            }
+        }
+    }
+}
