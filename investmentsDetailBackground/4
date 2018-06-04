@@ -1,0 +1,29 @@
+{
+  "$jason": {
+    "head": {
+      "title": "",
+      "actions": {
+        "notify": {
+          "type": "$utill.alert"
+        }
+      }
+    },
+    "body": {
+      "header": {
+        "style": {
+          "background": "#3e6901",
+          "color": "#ffffff"
+        },
+        "title": "News"
+      },
+      "background": {
+        "type": "html",
+        "url": "https://www.fin24.com/Markets/Equities/jse-tracks-global-markets-weaker-as-italian-situation-worsens-20180529",
+        "id": "app",
+        "action": {
+          "trigger": "notify"
+        }
+      }
+    }
+  }
+}
