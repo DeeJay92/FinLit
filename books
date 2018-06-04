@@ -1,0 +1,200 @@
+{
+    "$jason": {
+        "head": {
+            "title": "FinLit",
+            "data": {
+                "books": [
+                    {
+                        "albumId": 1,
+                        "id": 13,
+                        "title": "Financial Literacy 101",
+                        "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/cryptoCurrencyDetailBackground/1",
+                        "thumbnailUrl": "http://placehold.it/150/92c952"
+                    },
+                    {
+                        "albumId": 1,
+                        "id": 14,
+                        "title": "Personal Finance For Dummies",
+                        "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/cryptoCurrencyDetailBackground/2",
+                        "thumbnailUrl": "http://placehold.it/150/771796"
+                    },
+                    {
+                        "albumId": 1,
+                        "id": 15,
+                        "title": "Mapping Your Future",
+                        "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/cryptoCurrencyDetailBackground/3",
+                        "thumbnailUrl": "http://placehold.it/150/24f355"
+                    },
+                    {
+                        "albumId": 1,
+                        "id": 16,
+                        "title": "Financial Literacy As A Tool For Financial Inclusion And Client Protect",
+                        "url": "http://www.nysscpa.org/docs/default-source/pdf/the-complete-money-workbook.pdf",
+                        "thumbnailUrl": "http://placehold.it/150/d32776"
+                    },
+                    {
+                        "albumId": 1,
+                        "id": 17,
+                        "title": "Taking Financial Literacy to the Next Level: Important Challenges and Promising Solutions",
+                        "url": "http://www.nysscpa.org/docs/default-source/pdf/the-complete-money-workbook.pdf",
+                        "thumbnailUrl": "http://placehold.it/150/d32776"
+                    },
+                    {
+                        "albumId": 1,
+                        "id": 18,
+                        "title": "My Money Book",
+                        "url": "http://www.nysscpa.org/docs/default-source/pdf/the-complete-money-workbook.pdf",
+                        "thumbnailUrl": "http://placehold.it/150/d32776"
+                    },
+                    {
+                        "albumId": 1,
+                        "id": 19,
+                        "title": "Financial Literacy A Helpful Little Book",
+                        "url": "http://www.nysscpa.org/docs/default-source/pdf/the-complete-money-workbook.pdf",
+                        "thumbnailUrl": "http://placehold.it/150/d32776"
+                    },
+                    {
+                        "albumId": 1,
+                        "id": 20,
+                        "title": "The Complete Money Workbook",
+                        "url": "http://www.nysscpa.org/docs/default-source/pdf/the-complete-money-workbook.pdf",
+                        "thumbnailUrl": "http://placehold.it/150/d32776"
+                    }
+                ]
+            },
+            "actions": {
+                "$load": {
+                    "type": "$network.request",
+                    "options": {
+                        "url": "{{url}}"
+                    },
+                    "success": {
+                        "type": "$render"
+                    }
+                }
+            },
+            "templates": {
+                "body": {
+                    "header": {
+                        "style": {
+                            "background": "#3e6901",
+                            "color": "#ffffff"
+                        },
+                        "title": {
+                            "type": "image",
+                            "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/logo-4.png"
+                        },
+                        "menu": {
+                            "image": "https://png.icons8.com/ios/60/000000/menu-filled.png",
+                            "style": {
+                                "color": "#ffffff"
+                            },
+                            "href": {
+                                "url": "https://github.com/Jasonette/Jasonpedia/blob/gh-pages/view/footer/tabs.json",
+                                "view": "web"
+                            }
+                        }
+                    },
+                    "sections": [
+                        {
+                            "header": {
+                                "type": "label",
+                                "text": "Books",
+                                "style": {
+                                    "background": "#ffffff",
+                                    "font": "HelveticaNeue-CondensedBold",
+                                    "padding": "5",
+                                    "color": "#000000",
+                                    "size": "20"
+                                }
+                            },
+                            "items": {
+                                "{{#each book}}": {
+                                    "type": "horizontal",
+                                    "style": {
+                                        "padding": "5",
+                                        "spacing": "10"
+                                    },
+                                    "action": {
+                                        "type": "$href",
+                                        "options": {
+                                            "url": "{{url}}"
+                                        }
+                                    },
+                                    "components": [
+                                        {
+                                            "type": "label",
+                                            "style": {
+                                                "padding": "5",
+                                                "size": "14"
+                                            },
+                                            "text": "{{title}}"
+                                        },
+                                        {
+                                            "type": "image",
+                                            "style": {
+                                                "width": "90",
+                                                "align": "right"
+                                            },
+                                            "url": "{{thumbnailUrl}}"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    ],
+                    "footer": {
+                        "tabs": {
+                            "style": {
+                                "background": "#ffffff",
+                                "color": "#3e6901"
+                            },
+                            "items": [
+                                {
+                                    "image": "https://png.icons8.com/ios-glyphs/60/000000/news.png",
+                                    "text": "News",
+                                    "style": {
+                                        "height": "21"
+                                    },
+                                    "url": "https://www.jasonbase.com/things/QBVl.json"
+                                },
+                                {
+                                    "image": "https://png.icons8.com/ios-glyphs/60/000000/budget.png",
+                                    "text": "Budget",
+                                    "style": {
+                                        "height": "21"
+                                    },
+                                    "url": ""
+                                },
+                                {
+                                    "image": "https://png.icons8.com/ios-glyphs/60/000000/calculator.png",
+                                    "text": "Fin Calc",
+                                    "style": {
+                                        "height": "21"
+                                    },
+                                    "url": ""
+                                },
+                                {
+                                    "image": "https://png.icons8.com/ios-glyphs/60/000000/books.png",
+                                    "text": "Books",
+                                    "style": {
+                                        "height": "21"
+                                    },
+                                    "url": ""
+                                },
+                                {
+                                    "image": "https://png.icons8.com/ios-glyphs/60/000000/consultation.png",
+                                    "text": "Advisors",
+                                    "style": {
+                                        "height": "21"
+                                    },
+                                    "url": "https://www.jasonbase.com/things/8oKm.json"
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

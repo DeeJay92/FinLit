@@ -1,0 +1,29 @@
+{
+    "$jason": {
+        "head": {
+            "title": "",
+            "actions": {
+                "notify": {
+                    "type": "$utill.alert"
+                }
+            }
+        },
+        "body": {
+            "header": {
+                "style": {
+                    "background": "#3e6901",
+                    "color": "#ffffff"
+                },
+                "title": "Books"
+            },
+            "background": {
+                "type": "html",
+                "url": "http://www.moneysense.gov.sg/~/media/Moneysense/Guides%20and%20Articles/Guides/My%20Money_ENG.pdf",
+                "id": "app",
+                "action": {
+                    "trigger": "notify"
+                }
+            }
+        }
+    }
+}

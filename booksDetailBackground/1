@@ -1,0 +1,29 @@
+{
+    "$jason": {
+        "head": {
+            "title": "",
+            "actions": {
+                "notify": {
+                    "type": "$utill.alert"
+                }
+            }
+        },
+        "body": {
+            "header": {
+                "style": {
+                    "background": "#3e6901",
+                    "color": "#ffffff"
+                },
+                "title": "Books"
+            },
+            "background": {
+                "type": "html",
+                "url": "https://www.lahc.edu/includes/FYE%20Financial%20Literacy%20Presentation.pdf",
+                "id": "app",
+                "action": {
+                    "trigger": "notify"
+                }
+            }
+        }
+    }
+}

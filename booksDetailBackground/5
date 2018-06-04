@@ -1,0 +1,29 @@
+{
+    "$jason": {
+        "head": {
+            "title": "",
+            "actions": {
+                "notify": {
+                    "type": "$utill.alert"
+                }
+            }
+        },
+        "body": {
+            "header": {
+                "style": {
+                    "background": "#3e6901",
+                    "color": "#ffffff"
+                },
+                "title": "Books"
+            },
+            "background": {
+                "type": "html",
+                "url": "http://www.oecd.org/finance/financial-education/41635334.pdf",
+                "id": "app",
+                "action": {
+                    "trigger": "notify"
+                }
+            }
+        }
+    }
+}
