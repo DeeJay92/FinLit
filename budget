@@ -1,0 +1,79 @@
+{
+    "$jason": {
+        "head": {
+            "title": "Budget",
+            "actions": {
+                "notify": {
+                    "type": "$utill.alert"
+                }
+            }
+        },
+        "body": {
+            "header": {
+                "style": {
+                    "background": "#3e6901",
+                    "color": "#ffffff"
+                },
+                "title": "Budget"
+            },
+            "background": {
+                "type": "html",
+                "url": "http://dogreatthings.co.za/education/budget-calculator/",
+                "id": "app",
+                "action": {
+                    "trigger": "notify"
+                }
+            },
+            "footer": {
+                "tabs": {
+                    "style": {
+                        "background": "#ffffff",
+                        "color": "#3e6901"
+                    },
+                    "items": [
+                        {
+                            "image": "https://png.icons8.com/ios-glyphs/60/000000/news.png",
+                            "text": "News",
+                            "style": {
+                                "height": "21"
+                            },
+                            "url": "https://www.jasonbase.com/things/QBVl.json"
+                        },
+                        {
+                            "image": "https://png.icons8.com/ios-glyphs/60/000000/budget.png",
+                            "text": "Budget",
+                            "style": {
+                                "height": "21"
+                            },
+                            "url": "https://www.jasonbase.com/things/8oej.json"
+                        },
+                        {
+                            "image": "https://png.icons8.com/ios-glyphs/60/000000/calculator.png",
+                            "text": "Fin Calc",
+                            "style": {
+                                "height": "21"
+                            },
+                            "url": "https://www.jasonbase.com/things/yBe3.json"
+                        },
+                        {
+                            "image": "https://png.icons8.com/ios-glyphs/60/000000/books.png",
+                            "text": "Books",
+                            "style": {
+                                "height": "21"
+                            },
+                            "url": "https://www.jasonbase.com/things/1drx.json"
+                        },
+                        {
+                            "image": "https://png.icons8.com/ios-glyphs/60/000000/consultation.png",
+                            "text": "Advisors",
+                            "style": {
+                                "height": "21"
+                            },
+                            "url": "https://www.jasonbase.com/things/8oKm.json"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

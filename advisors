@@ -61,46 +61,46 @@
                   "color": "#3e6901"
                 },
                 "items": [
-                  {
-                    "image": "https://png.icons8.com/ios-glyphs/60/000000/news.png",
-                    "text": "News",
-                    "style": {
-                      "height": "21"
+                    {
+                        "image": "https://png.icons8.com/ios-glyphs/60/000000/news.png",
+                        "text": "News",
+                        "style": {
+                            "height": "21"
+                        },
+                        "url": "https://www.jasonbase.com/things/QBVl.json"
                     },
-                    "url": "https://www.jasonbase.com/things/QBVl.json"
-                  },
-                  {
-                    "image": "https://png.icons8.com/ios-glyphs/60/000000/budget.png",
-                    "text": "Budget",
-                    "style": {
-                      "height": "21"
+                    {
+                        "image": "https://png.icons8.com/ios-glyphs/60/000000/budget.png",
+                        "text": "Budget",
+                        "style": {
+                            "height": "21"
+                        },
+                        "url": "https://www.jasonbase.com/things/8oej.json"
                     },
-                    "url": ""
-                  },
-                  {
-                    "image": "https://png.icons8.com/ios-glyphs/60/000000/calculator.png",
-                    "text": "Fin Calc",
-                    "style": {
-                      "height": "21"
+                    {
+                        "image": "https://png.icons8.com/ios-glyphs/60/000000/calculator.png",
+                        "text": "Fin Calc",
+                        "style": {
+                            "height": "21"
+                        },
+                        "url": "https://www.jasonbase.com/things/yBe3.json"
                     },
-                    "url": ""
-                  },
-                  {
-                    "image": "https://png.icons8.com/ios-glyphs/60/000000/books.png",
-                    "text": "Books",
-                    "style": {
-                      "height": "21"
+                    {
+                        "image": "https://png.icons8.com/ios-glyphs/60/000000/books.png",
+                        "text": "Books",
+                        "style": {
+                            "height": "21"
+                        },
+                        "url": "https://www.jasonbase.com/things/1drx.json"
                     },
-                    "url": ""
-                  },
-                  {
-                    "image": "https://png.icons8.com/ios-glyphs/60/000000/consultation.png",
-                    "text": "Advisors",
-                    "style": {
-                      "height": "21"
-                    },
-                    "url": "https://www.jasonbase.com/things/8oKm.json"
-                  }
+                    {
+                        "image": "https://png.icons8.com/ios-glyphs/60/000000/consultation.png",
+                        "text": "Advisors",
+                        "style": {
+                            "height": "21"
+                        },
+                        "url": "https://www.jasonbase.com/things/8oKm.json"
+                    }
                 ]
               }
             }
