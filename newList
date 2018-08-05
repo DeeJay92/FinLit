@@ -6,7 +6,7 @@
                 "$load": {
                     "type": "$network.request",
                     "options": {
-                        "url": "https://www.jasonbase.com/things/kg5G.json"
+                        "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/newsData"
                     },
                     "success": {
                         "type": "$render"
@@ -48,7 +48,7 @@
                                     "action": {
                                         "type": "$href",
                                         "options": {
-                                            "url": "https://www.jasonbase.com/things/1doD.json",
+                                            "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/newsDetails",
                                             "view": "jason",
                                             "transition": "push",
                                             "options": {
@@ -113,7 +113,7 @@
                                     "style": {
                                         "height": "21"
                                     },
-                                    "url": "https://www.jasonbase.com/things/akRE.json"
+                                    "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/newList"
                                 },
                                 {
                                     "image": "https://png.icons8.com/ios-glyphs/60/000000/budget.png",
@@ -121,7 +121,7 @@
                                     "style": {
                                         "height": "21"
                                     },
-                                    "url": ""
+                                    "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/budget"
                                 },
                                 {
                                     "image": "https://png.icons8.com/ios-glyphs/60/000000/calculator.png",
@@ -129,7 +129,7 @@
                                     "style": {
                                         "height": "21"
                                     },
-                                    "url": ""
+                                    "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/finCalc"
                                 },
                                 {
                                     "image": "https://png.icons8.com/ios-glyphs/60/000000/books.png",
@@ -137,7 +137,7 @@
                                     "style": {
                                         "height": "21"
                                     },
-                                    "url": ""
+                                    "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/books"
                                 },
                                 {
                                     "image": "https://png.icons8.com/ios-glyphs/60/000000/consultation.png",
@@ -145,7 +145,7 @@
                                     "style": {
                                         "height": "21"
                                     },
-                                    "url": "https://www.jasonbase.com/things/8oKm.json"
+                                    "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/advisors"
                                 }
                             ]
                         }
