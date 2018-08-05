@@ -1,0 +1,266 @@
+{
+    "$jason": {
+        "head": {
+            "title": "",
+            "actions": {
+                "$load": {
+                    "type": "$render"
+                }
+            },
+            "templates": {
+                "body": {
+                    "header": {
+                        "title": "News Details",
+                        "style": {
+                            "background": "#3e6901",
+                            "color": "#ffffff"
+                        }
+                    },
+                    "sections": [
+                        {
+                            "items": [
+                                {
+                                    "type": "vertical",
+                                    "components": [
+                                        {
+                                            "type": "label",
+                                            "text": "{{$params.name}}",
+                                            "style": {
+                                                "color": "#000000",
+                                                "font": "HelveticaNeue-Bold"
+                                            }
+                                        },
+                                        {
+                                            "type": "space",
+                                            "style": {
+                                                "height": "10"
+                                            }
+                                        },
+                                        {
+                                            "type": "image",
+                                            "url": "{{$params.thumbnailUrl}}"
+                                        },
+                                        {
+                                            "type": "space",
+                                            "style": {
+                                                "height": "10"
+                                            }
+                                        },
+                                        {
+                                            "type": "label",
+                                            "text": "{{$params.description1}}"
+                                        },
+                                        {
+                                            "type": "space",
+                                            "style": {
+                                                "height": "10"
+                                            }
+                                        },
+                                        {
+                                            "type": "label",
+                                            "text": "{{$params.description2}}"
+                                        },
+                                        {
+                                            "type": "space",
+                                            "style": {
+                                                "height": "10"
+                                            }
+                                        },
+                                        {
+                                            "type": "label",
+                                            "text": "{{$params.description3}}"
+                                        },
+                                        {
+                                            "type": "space",
+                                            "style": {
+                                                "height": "10"
+                                            }
+                                        },
+                                        {
+                                            "type": "label",
+                                            "text": "{{$params.description4}}"
+                                        },
+                                        {
+                                            "type": "space",
+                                            "style": {
+                                                "height": "10"
+                                            }
+                                        },
+                                        {
+                                            "type": "label",
+                                            "text": "{{$params.description5}}"
+                                        },
+                                        {
+                                            "type": "space",
+                                            "style": {
+                                                "height": "10"
+                                            }
+                                        },
+                                        {
+                                            "type": "label",
+                                            "text": "{{$params.description6}}"
+                                        },
+                                        {
+                                            "type": "space",
+                                            "style": {
+                                                "height": "10"
+                                            }
+                                        },
+                                        {
+                                            "type": "label",
+                                            "text": "{{$params.description7}}"
+                                        },
+                                        {
+                                            "type": "space",
+                                            "style": {
+                                                "height": "10"
+                                            }
+                                        },
+                                        {
+                                            "type": "label",
+                                            "text": "{{$params.description8}}"
+                                        },
+                                        {
+                                            "type": "space",
+                                            "style": {
+                                                "height": "10"
+                                            }
+                                        },
+                                        {
+                                            "type": "label",
+                                            "text": "{{$params.description9}}"
+                                        },
+                                        {
+                                            "type": "space",
+                                            "style": {
+                                                "height": "10"
+                                            }
+                                        },
+                                        {
+                                            "type": "label",
+                                            "text": "{{$params.description10}}"
+                                        },
+                                        {
+                                            "type": "space",
+                                            "style": {
+                                                "height": "10"
+                                            }
+                                        },
+                                        {
+                                            "type": "label",
+                                            "text": "{{$params.description11}}"
+                                        },
+                                        {
+                                            "type": "space",
+                                            "style": {
+                                                "height": "10"
+                                            }
+                                        },
+                                        {
+                                            "type": "label",
+                                            "text": "{{$params.description12}}"
+                                        },
+                                        {
+                                            "type": "space",
+                                            "style": {
+                                                "height": "10"
+                                            }
+                                        },
+                                        {
+                                            "type": "label",
+                                            "text": "{{$params.description13}}"
+                                        },
+                                        {
+                                            "type": "space",
+                                            "style": {
+                                                "height": "10"
+                                            }
+                                        },
+                                        {
+                                            "type": "label",
+                                            "text": "{{$params.description14}}"
+                                        },
+                                        {
+                                            "type": "space",
+                                            "style": {
+                                                "height": "10"
+                                            }
+                                        },
+                                        {
+                                            "type": "label",
+                                            "text": "{{$params.description15}}"
+                                        },
+                                        {
+                                            "type": "space",
+                                            "style": {
+                                                "height": "10"
+                                            }
+                                        },
+                                        {
+                                            "type": "label",
+                                            "text": "{{$params.description16}}"
+                                        },
+                                        {
+                                            "type": "space",
+                                            "style": {
+                                                "height": "10"
+                                            }
+                                        },
+                                        {
+                                            "type": "label",
+                                            "text": "{{$params.description17}}"
+                                        },
+                                        {
+                                            "type": "space",
+                                            "style": {
+                                                "height": "10"
+                                            }
+                                        },
+                                        {
+                                            "type": "label",
+                                            "text": "{{$params.description18}}"
+                                        },
+                                        {
+                                            "type": "space",
+                                            "style": {
+                                                "height": "10"
+                                            }
+                                        },
+                                        {
+                                            "type": "label",
+                                            "text": "{{$params.description19}}"
+                                        },
+                                        {
+                                            "type": "space",
+                                            "style": {
+                                                "height": "10"
+                                            }
+                                        },
+                                        {
+                                            "type": "label",
+                                            "text": "{{$params.description20}}"
+                                        },
+                                        {
+                                            "type": "space",
+                                            "style": {
+                                                "height": "20"
+                                            }
+                                        },
+                                        {
+                                            "type": "label",
+                                            "text": "Content provided belongs to fin 24",
+                                            "style": {
+                                                "color": "#000000",
+                                                "font": "HelveticaNeue-Bold"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
