@@ -5,57 +5,41 @@
             "data": {
                 "books": [
                     {
-                        "albumId": 1,
-                        "id": 13,
                         "title": "Financial Literacy 101",
                         "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/booksDetailBackground/1",
                         "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHEPreiNqsVbpBAK3I5bcQfQTfpKOpq8S21tuN9JyEtuVQ41v6_w"
                     },
                     {
-                        "albumId": 1,
-                        "id": 14,
                         "title": "Personal Finance For Dummies",
                         "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/booksDetailBackground/2",
                         "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/512W%2B4sQ4HL._SX260_.jpg"
                     },
                     {
-                        "albumId": 1,
-                        "id": 15,
                         "title": "Mapping Your Future",
                         "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/booksDetailBackground/3",
                         "thumbnailUrl": "http://mappingyourfuture.org/images/MYFLogo-transparent.png"
                     },
                     {
-                        "albumId": 1,
-                        "id": 16,
                         "title": "Financial Literacy As A Tool For Financial Inclusion And Client Protect",
                         "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/booksDetailBackground/4",
                         "thumbnailUrl": "http://www.in.undp.org/content/dam/india/docs/poverty/financial-literacy-as-a-tool-for-financial-inclusion-and-client.pdf.thumb.319.319.png"
                     },
                     {
-                        "albumId": 1,
-                        "id": 17,
                         "title": "Taking Financial Literacy to the Next Level: Important Challenges and Promising Solutions",
                         "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/booksDetailBackground/5",
                         "thumbnailUrl": "http://econord.c.is/wp-content/uploads/2018/03/No_Image_Available.png"
                     },
                     {
-                        "albumId": 1,
-                        "id": 18,
                         "title": "My Money Book",
                         "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/booksDetailBackground/6",
                         "thumbnailUrl": "http://www.moneysense.gov.sg/~/media/Moneysense/Guides%20and%20Articles/Guides/MyMoneyBook.png"
                     },
                     {
-                        "albumId": 1,
-                        "id": 19,
                         "title": "Financial Literacy A Helpful Little Book",
                         "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/booksDetailBackground/7",
                         "thumbnailUrl": "http://econord.c.is/wp-content/uploads/2018/03/No_Image_Available.png"
                     },
                     {
-                        "albumId": 1,
-                        "id": 20,
                         "title": "The Complete Money Workbook",
                         "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/booksDetailBackground/8",
                         "thumbnailUrl": "http://econord.c.is/wp-content/uploads/2018/03/No_Image_Available.png"
