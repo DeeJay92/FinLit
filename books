@@ -1,63 +1,63 @@
 {
     "$jason": {
         "head": {
-            "title": "Books",
+            "title": "FinLit",
             "data": {
                 "books": [
                     {
                         "albumId": 1,
                         "id": 13,
                         "title": "Financial Literacy 101",
-                        "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/booksDetailBackground/1",
-                        "thumbnailUrl": "http://placehold.it/150/92c952"
+                        "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/cryptoCurrencyDetailBackground/1",
+                        "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHEPreiNqsVbpBAK3I5bcQfQTfpKOpq8S21tuN9JyEtuVQ41v6_w"
                     },
                     {
                         "albumId": 1,
                         "id": 14,
                         "title": "Personal Finance For Dummies",
-                        "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/booksDetailBackground/2",
-                        "thumbnailUrl": "http://placehold.it/150/771796"
+                        "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/cryptoCurrencyDetailBackground/2",
+                        "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/512W%2B4sQ4HL._SX260_.jpg"
                     },
                     {
                         "albumId": 1,
                         "id": 15,
                         "title": "Mapping Your Future",
-                        "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/booksDetailBackground/3",
-                        "thumbnailUrl": "http://placehold.it/150/24f355"
+                        "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/cryptoCurrencyDetailBackground/3",
+                        "thumbnailUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAe4AAABmCAMAAAA6XYJlAAAA51BMVEX///8APF0AfbsAOVsALVQANFgANVjR2+EAMFWWqLULPmAAKlIAdrgAOV0AMlAGdazD4O/u8vQAerry+fzR5vI/ZH0+l8gpUnD19/i3xc5uiZxMcomdsL2vvcYbUG4hWXXK1dzg6e1gfpKLorEAR2fP2+EAIk5zjJ1FbITBzNPb4+gcSmhZdouds74AcbYAJ1GCmqoAGEiGuNlRaoE5XXjg7PUtjMOtz+VVf5VYoMwhhL8+bISUrbrJ4u+Xwd5ehpsAD0Y+h7U6VGsvTGkALExVmckAFUUAAD8AZrJvqtGnyeKMvdwAaaY4XogKAAAVS0lEQVR4nO2de2OjuLnGIQKMjTk7OOMaHDvBl9jGN5yJ57Kzmfa0p9vT6en3/zy19ArQFdtJGpMenv1jJ0ZIgh+6vXolGUatWrVq1apVq1atWrVq1apVq1atWrWepfAMXZ8hdWoBUdk11cVRjBWqch8IEgMdDSBkKdTlIVTfja8sN/3Hx8f1fKi8XC3tu6frz384XT9UiUWr3kGrnepacIuv9bqKd31r2babThQ3DUmEhbrr3ZCLIJEDbEZsgAb5+XZJ/xyTDA7klAYrdc7j3d63bAchx3b9/S5RPVqFlCLnRKG//tI5WdsPqsSGHsJyI8W1sYUvObcy7mFqHoR8xYcwTBEnx7HTdBEXASJLCuDNFgyUho9/9jPcNy7+0x5KKTVx1t2+8Gt0N7OQmQvZ3nSjevDKyDNP1n/9cnWy2mrcFonI6cm1Hr2EZNzh2iaXLEWZG6qybzv9PP7IVgRw7HUeoNEiyea4HfJnaySm1MT5s3ncwdp1xLiRtViK91ZIl8BtelLFHPSQDveSEkMLxUeizr7Vy3ApcZummwdQ4jbdGzElBe5k5aritv2n8ld+SV0Et+mKbdyavjkF7pvspXpyG0BxOzaVgzKcNBqKWwpgr2gANW7TEqttGfcmpXEh17IsL3Xt7O8HqW6ojC6D29nzF6LU1OFe5m2j05UjhOyvM+1b9NtwxzRiWwxAs2DT8qvBbdpC0yHhjihdx+/uomA0Sprjnot/Qraqa1IRXQa36XLVedjLmMq4J+QeQsG9lyL0yPvN/w4aTQsAuzH5AXBP82bgujHwIRMzqGB0uJHFN8Ei7hFkyfT2BdzRsOWpWqoK6UK4zRn7Nvv57xLuwMc/txaOKfWUDBn3QSFU/jYUb4qbi3TNBtDhNtGKq5IF3OGtDR+FwHZnz+aqJ6+KLoXbuSk6Xomf/yzhHngEzb1DuIpFX4H7MIAnVapP4lfhNlYkMpPg1OLO2wOQgHsAT+JLw65I6uRVSpfCbVrN/GcoKY4Kd0iK9aFnt8f/F8uSEjdF4cX430rckA2LBFAPxCCHrFFFwI1IkErX20pdAPceWmo3e8U7kgf3mwp3hO9wDsNk8g/UE/q8StwjgssiBU+Je7QiNMl4SYUbdcmP5ozpc/G4JyTLDlf+34XeHrczjkiied/Yx3TsceIqcHcxLmt4qKK7OJQr9JeVuI0VCUpqDyXugFQVLim8Ktxus0lyyFpbONwByRZCjZNfc1V0AdxrY05KeQqmyi4pUKtAhfseutn4n6RAoVshwhLcpPAqcYfdI7gnRpd055xu3sHgcDds9nt9T7oE7jC8JU3kFBceqBe9yFDhnrt5OTUIAMHc/szKvFcUfw3uoAdDv3V2D4e7CXmp+nyIQhfBbcRQPA4vc0mmGPB7VOAOsCkDtYDFziU38xGqcA8JjJKuGvxoEVoa3IcmhjxzmnW9OdzQwq+qazzT6jK4jT6U6cS4Ia2gfa3ETUp+RviemLF464cSN2mZkUX+rcR9ByM17UCM2ICeZuSCH8MFDjcp+uxQ0ljGnCo7S3Ih3MYtFJAd2MxwFS3jppVujgKj4+cgVbjXJEobrB0K3CF8aiVmFjD59aH5pmWYwz1FRQo00ZnH6KGyrfqlcCekrCLSQlrkxcm4B/iXYrIyJu9/xZYcwO0XP4RxF3p3dkz+Fo2ohwALMKuneiMq4A4hJhss9SzukOC2WNx9bibUrewI7VK4jXmeMoLCJ+O+w+8wzV0NAuhQN9kIYcC0oWru9h6dwaQtAMX9lAfophDAXkAAPW6jwdpSuNK9+o/HjXz/r790XhE3LTxm1qmScYNlZVrcvsHzZn6LjRCyb9FK1MrcDdxsBBVR07YYwO6VTIBm8zcxab7NFDc1Mm7Ogt/n5tXfNW7H9SzU+p+//OXPX75/77S37fZx7MdxG3E2FUlfm4R7TOpy1o8IKlHmF417g7vPYtG5N+wzvmW4jR18LNN7VVcNLZiKaOz6IPSucaP0YXY3Hyb3yyDADqafP/748MdfO9tt+8W4qfHUycqZiHsJn8NuUIhY1livFiVuZ7Y+4ryUFqRKcVPXCudWHIhBE8EMxPKeOflC3iduO3Uem7Hqruuvn75sywr5KbhDmPbIEhBxg+nNdJkeL51iLmyXEm7kuPaamRaXcCPb8tasa2Ip7rAHQ/Qxj/uJfAWWyo1h475P3MhrPW5Ges/p648/v7S1ZfwU3MRa7ubTTgLu0QppcsbMTFDciNakrdV+PeHGvBR3XtOuekKActxGA7rx7oDDTa1EC8Ujvk/czsxuHrUVXP/4w3b7AtzGLrWLMZKAu2mpc4anJ/Oc0YHYPa1JD02OkCLBjaYJDdCQAhzBnU1st7qsfwXMsZi25F3zPnG7s8cT/a0+f7raqur003Abe8ZIJuD2lYWb/Fj0iaVxtyhp3C3qGO7DJ6lImE6ACh53WO8Pt2OtlSt01Pr8f1eKEn4i7oTxIOBxU0+IlaApefX5CgP1jBgjpRGV1VHc4U3R/Oe4waVK5d4weGe40ez2TE/Kzz/lfvqJuFlxuMMFfsn2brTk1SAzKm42cfEGuI0gzeuZolqBUYUQEuudlW5vJS+YOaoD8M7r4m5gC0c2F8ZqB6FoFG+Bm3GlY1wToctuejfctFg4ILX+e8HtuHMliyAIkmj49euHj5/Vizs/fNm+Ku4xKdxrOVQMhk36Tb4JbqPpSbgP91E3894uW/gZBoOuB2YWRcarIQ63h2I5RBhN1j2UzmYP/9xut+3vv3/6x0c51PWnv3deD/eSvMx8SM6K2F4zR5K3wW2MLQm3MXygy5xcf7FrYnP8ws6WB3rvATfydlLJbQx6s5kHCyboFEmns912fn6Qgn743n413H1XG5A6uoGl5I1wG7Tq5szkw3w9IHItz7Os/M8Ku5oXuB1HbLWD4SPyiqkeZkas0+58//lZCH79a/uVcAe+aBxnMrUH3wKI8I1wN1bCCBArhkVCgpDbe0bv562U47ZWQr8onKxmnAmSnwDttNu/i0w/bV8H9wYoqsPBmNciXaRXwG2egtsYzmTcxmg8E4Ejd7bTJ3Z5ZbhToTM52j2kwqNI892d7ReB6o+sh67BPbNt23pUY4zSw0UXkwlW7uGfOp/9IMVXU1JhbnCErqV/vMg7BHZbJbhxZLabmeEXHo5bsb3EBOfOE1ct3c9Ny6b1H8Lm+H1Ts01JRURxe3xzEzZXllRRKdwbOu3f+W7bD9qAq3E31uODdmrcMbnYD7JgY50Rd0KukiX7CYTUP15Mro/1VqMlBMiGUzv8x1pVG/fxBXnldjAcd1etw6fgT3vrXaPKJRsLcM/47zl+nPkibI03S7vzibv141VHj/s/VMs4SZK48qixCO4HbnFGsPub0ilA47y0veK23bkm5fv/Fe53JIybbyUbe80smc5XrdPmCvjnL+0ad1V1QMsPEzeW2t+nzDVx+zvbQfnYqXFXVZ7Jdzf7f9PALvVEbXe+MnF83HZq3NWUZ7OTtsFjiTNTmeNxp83y/tqucVdTnsNM6Yx6WheSI7gPFfo/mFh//r3GXUn9LzO5HZvKjcJOw321/clEK9pfalVDTMN939J10k7CfbVlOugfXwG3fk/cWi/X8gjt44uGtp/K4m+CYsWlBC6x+9rcN/vdqe/7031fcUtEwsteNyOIKGBDMRpsjizJ3oh3FMKXh+RfchyjSR6koY8BMhxwWWTERR4+SXkfio6QJUkdX4q8bEn7e56Lm6/PRTUfLLy7oCkbNEetFF+xcv/xYHA7s+jsA3K8tDUR8j/GN8ykfbeM2CMRUfPreGYJ8tL0dlLiYTv1xDuyGz18eT1TJ5s8kCAY4ZOUZqH0EWcRwspA7vAzPVDzZpiKOfG81FpE7FcCL1SZ0NGNBoLekbJ90pJArr8miu5nJk8Gj8F3Pzf2bHqCwR65q0Eo3aGIqUHuy3ye+qquCHJb+jmrO51vu9kqSzYh4xkfGx8GJd0fslL9HlYxyriJa3O221OoMGJjZ6M7pkYbaPvVTqx7wEyPZX1y0CkrQNUbW4NgowYzFSslWHnn7CnQ4MaTXzryuuwL0uKGTffKcOO49rrKTosbnJtPwL15LdzqnKC02M35Bbj7M30uM5204Lej3LcetIEn3fOFK4Bd7TzKKM62NTXxjvB2tq+s6bCuTC/CfYhLt0lt5XEfQuQ7w1LcirJhx1LsnPRLNhidhvt7STLEm5hZJ0QEa8Fs+mO8ypbk+r31uD9+7Lm0lXGmxUOcg9sv5GYORo7qUAQjx+3LssuSZXA/zdxMWb7zH7zzcRfpZ30Z08sWuA/UrvjYGz+WYme1PKFsn7qcv/2rPp2GyeyKkv1Gyq9NF2SPfOoVNhsnEGoU3VCnGqe47wzczrjYMiUZdmlcGt8JgtveNWJZZckyuEdJriEsA98Vv+C+6Dm4/aciJ8luSreFtunjEdzodqlQ6aqQYHWsU34G7qvtH/UpkQX53GKbcEqqch965eGenkywZkvffZeecpCvKDoDtxBqtCdFXrFvOtadaq++QifgZpMiW8uIu7Cfg9vhe9gRXT1OhwYUty6zWs1LDOXn477qKPySqWBxiOkVI2y6rVqT/YvdL5UooDnMdyl9Pm665YdmU7R/B27BNeYs3MKnkhB/7Kzz80zc0YkbdpyM+4s+rSWUrXwlPPDJ8gzu5aYn+4oB73zt5wtwH8bmBHdTutmoPG7aG2nB2OZ5uEPFuOdFuEuta9ApzJdGk8o7pwhPo1xy08033sN6CW7YItNWOrhVHXcD3h7UTM/DPT+lV34W7quO6IJeiC6odOElgFEiN7DAwHyqMnvRXh5sQv4i3LDni6Nai1953CNYXfMC3PFJvfLzcJf1zpdwKhjZUGkEm+hlPTfoyFkKt18jL/nw8l6EGzrsyp3uKo97+lLc+5N65efhvtp+1Sf4BJvH48oUzKpW9uhkw1szVQ+J4TOhdfCLKvMFeZOy5dt4B7jBDv183M3SKe7n4i7rrcFz4TyDnSC3usBZYuhOcxtchaW+L8E9ImFc5cqequMGWlMYtT4H9+zEftp5uEtdE2Pojfdgsx073zMcONjqujwr++6LccOOd9nWtrwA95N0gC3N4qVxB+SNIWpGhdIybU4EKcccVG+6SSbVAIwtdFfUfNpzCSMk3eQdPUGEDEKejzscwwpS+UwyLDCiujNB/00hXBj3cgpbyNK1LNSI6oozpSU70VwENwyFQIxFJSnHHcE25eTyWbiLE6mDYNOlO2epNyTRTJFkawTfHjeT98YcaKM72rnRzIjlW1uodAncRiNfOOkwTQ+8NOuVcaPVIlO3l82RpMqOWuVwo32R9xWdI0EP2Qt6N7jz7S+YLdKOlm72EIJzZsQQcvLznOmTaHdXqBhuE+WZz+pDx84N0NkEqCCnerip7Zw3jsMmqNp+MW27SU32ovluW9sbpLilI83T09puYQT5CrjlD69XtEIUd09Ut3K4KVr+ENcReULt4Vy0Rx3k/9bhRqW43fROfx4UHFvR7QsaU2QEt/uy0g12UF+DO5uYVeNOrT67uz8MxIKRoDLf3QvhNhTHgtG5Kt1eDDAbBJ/u3FV/GHCgwZSvzLPDnIH2vGzvTxiIaTfbGGuSpfvFCL+qcVNzkby/JjnL0uVxZwdRU8+1IUfyOePuCuE24GASxTHdWAk7kUXMDaIXVBYoP0sQcPfoWc7QfpSf7HfEzALmV3kM1xQ32idS4w7hOeSHJICzqWHaVeuOSdbHcMyVMC5777iHMB5X96PG7KbSEdSIEm7YZC/b8FwYd8NRo6l0SiujI7gncDKl1DaSygaJn4Eat0FKqiWlAfMHXuZnzrs3LB/wRfbUQuP94zbADzFVFW+oL7OHizXvjLjl5IAF3Evw4nNKnLCP4IYaRjqOHay/UgdQg5s0WbnfbS7w27SyLfkEMwucYm5zvbAjuJP5tz9txAJRKdwTaGxXcl+K7m6e3UDN6wvhnSVQA2TlV7SqQVe2rDwcwR1AeyBWP0N2FprJsxo3PKRoXoCjjPO8SVa1R9mrsxz3bhOEQfxN6BJWCvcInOby8ypyXYN3Q9Far8HbQbgf+nr5lJpkRIXdDxVd60xHcAMTcxbzv8LRJLdiZ1uDG75JW/hUh7yPjYSbzvfPmJJQirsZBcNhYoTf+FdZKdy09TbtFf/txz0YUtEzifA7g4AzLhzQLPxUJNzX4Bw1027pfAR3fhgGm2wIB5bIH5EGN51y5vdNpV6HZkZTtplHcGohcwBKGe7ln4zEb47vjJifMKkWbqNPfU7ZhT3BhC5fYxwfqJ0GtZp5IVnSjceLSlWeIonA6izuGJjrGG44Uurw0iMmWfgUbWkkrcO9oVMb6/yOcCieUKSYIhmLnl1luKPESBbG0jYCfj65YrjDW2oacafzIYYyinYrmkeX9TdKwAkHWb1BMgqD5XCO6MC6KDWKGTE4EFIxlgIdxU2rH+R1m3FwHTSGczqeV7hT6nBnJ6jZrXm0vL4exZM9uAtm7teGEncILZ3LG1HRdCCrudzERmIv9s2K4zaCbmb4ty0vxce9ZcuGPH4zvF1mdne99PCfRz8Tm+nyqiZAqeezxox6FHfupA3JpkWyclAd7kOhg9oK2TiG1MvWtjCNjGoCFA68QQ9Z1USNqJ6k9GGwHBpJ93ofGcFvXNJVw20E47RIkrEkWuJO633lGWKsX6MKN12XaKsNqcdxhzeqeSh7r2getLiNCDlyHIjtdivnu5tgl+iWT4CSJwi+GfHciG+MAR9F5XDjp5KeA1m+bB2ZS544yOuxLajSm6XJH1bH6zjuA++ZxCpVLinV4z70zKRHdFK2U6X2ZrnjqqYy3EYEj50IM70Xw03mf9QvdjTP1+4RiLol2dE+Zd+8Y/n8yi+18xIdjSltdxg3Ksd9SLaXMhsdI8eaqt2FSnAbQd912Ue03QVXP4Swck7APQIHh8xruwy3kXwbJtFcbLSs1sl65dJ9iFH7Ype7rmm5joMcx3ZbXd3mE2F0s3JdG89Rui7q7oRgfeeQhuya2PPx0ygx3OFciaN5OdnBeuVaOFnbtVrdiWYK6oD7EJvyLMGDlvMeIlm3bdfvjRO+qQpNnEdfvHeDY2xRY+rA1ZEi7zWIN5H03hpn6OMZOrbP85LEWDJX14h249+6v40niX6+EseTPPXHNzf9SaQwxZE0pEcO7snvqsHY0VwVyQ76a5xsSe5CEtm9dvY5iJPdIevj+TCWP+eGOifwc0x+D/Sk6v2LatWqVatWrVq1atWqVatWrVq1/k36F6SyZFHC+LnPAAAAAElFTkSuQmCC"
                     },
                     {
                         "albumId": 1,
                         "id": 16,
                         "title": "Financial Literacy As A Tool For Financial Inclusion And Client Protect",
-                        "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/booksDetailBackground/4",
+                        "url": "http://www.nysscpa.org/docs/default-source/pdf/the-complete-money-workbook.pdf",
                         "thumbnailUrl": "http://placehold.it/150/d32776"
                     },
                     {
                         "albumId": 1,
                         "id": 17,
                         "title": "Taking Financial Literacy to the Next Level: Important Challenges and Promising Solutions",
-                        "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/booksDetailBackground/5",
+                        "url": "http://www.nysscpa.org/docs/default-source/pdf/the-complete-money-workbook.pdf",
                         "thumbnailUrl": "http://placehold.it/150/d32776"
                     },
                     {
                         "albumId": 1,
                         "id": 18,
                         "title": "My Money Book",
-                        "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/booksDetailBackground/6",
+                        "url": "http://www.nysscpa.org/docs/default-source/pdf/the-complete-money-workbook.pdf",
                         "thumbnailUrl": "http://placehold.it/150/d32776"
                     },
                     {
                         "albumId": 1,
                         "id": 19,
                         "title": "Financial Literacy A Helpful Little Book",
-                        "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/booksDetailBackground/7",
+                        "url": "http://www.nysscpa.org/docs/default-source/pdf/the-complete-money-workbook.pdf",
                         "thumbnailUrl": "http://placehold.it/150/d32776"
                     },
                     {
                         "albumId": 1,
                         "id": 20,
                         "title": "The Complete Money Workbook",
-                        "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/booksDetailBackground/8",
+                        "url": "http://www.nysscpa.org/docs/default-source/pdf/the-complete-money-workbook.pdf",
                         "thumbnailUrl": "http://placehold.it/150/d32776"
                     }
                 ]
@@ -80,12 +80,36 @@
                             "background": "#3e6901",
                             "color": "#ffffff"
                         },
-                        "title": "Books"
+                        "title": {
+                            "type": "image",
+                            "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/logo-4.png"
+                        },
+                        "menu": {
+                            "image": "https://png.icons8.com/ios/60/000000/menu-filled.png",
+                            "style": {
+                                "color": "#ffffff"
+                            },
+                            "href": {
+                                "url": "https://github.com/Jasonette/Jasonpedia/blob/gh-pages/view/footer/tabs.json",
+                                "view": "web"
+                            }
+                        }
                     },
                     "sections": [
                         {
+                            "header": {
+                                "type": "label",
+                                "text": "Books",
+                                "style": {
+                                    "background": "#ffffff",
+                                    "font": "HelveticaNeue-CondensedBold",
+                                    "padding": "5",
+                                    "color": "#000000",
+                                    "size": "20"
+                                }
+                            },
                             "items": {
-                                "{{#each books}}": {
+                                "{{#each book}}": {
                                     "type": "horizontal",
                                     "style": {
                                         "padding": "5",
@@ -99,20 +123,20 @@
                                     },
                                     "components": [
                                         {
-                                            "type": "image",
-                                            "style": {
-                                                "width": "90",
-                                                "align": "left"
-                                            },
-                                            "url": "{{thumbnailUrl}}"
-                                        },
-                                        {
                                             "type": "label",
                                             "style": {
                                                 "padding": "5",
                                                 "size": "14"
                                             },
                                             "text": "{{title}}"
+                                        },
+                                        {
+                                            "type": "image",
+                                            "style": {
+                                                "width": "90",
+                                                "align": "right"
+                                            },
+                                            "url": "{{thumbnailUrl}}"
                                         }
                                     ]
                                 }
@@ -132,7 +156,7 @@
                                     "style": {
                                         "height": "21"
                                     },
-                                    "url": "https://www.jasonbase.com/things/QBVl.json"
+                                    "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/newList"
                                 },
                                 {
                                     "image": "https://png.icons8.com/ios-glyphs/60/000000/budget.png",
@@ -140,7 +164,7 @@
                                     "style": {
                                         "height": "21"
                                     },
-                                    "url": "https://www.jasonbase.com/things/8oej.json"
+                                    "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/budget"
                                 },
                                 {
                                     "image": "https://png.icons8.com/ios-glyphs/60/000000/calculator.png",
@@ -148,7 +172,7 @@
                                     "style": {
                                         "height": "21"
                                     },
-                                    "url": "https://www.jasonbase.com/things/yBe3.json"
+                                    "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/finCalc"
                                 },
                                 {
                                     "image": "https://png.icons8.com/ios-glyphs/60/000000/books.png",
@@ -156,7 +180,7 @@
                                     "style": {
                                         "height": "21"
                                     },
-                                    "url": "https://www.jasonbase.com/things/1drx.json"
+                                    "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/books"
                                 },
                                 {
                                     "image": "https://png.icons8.com/ios-glyphs/60/000000/consultation.png",
@@ -164,7 +188,7 @@
                                     "style": {
                                         "height": "21"
                                     },
-                                    "url": "https://www.jasonbase.com/things/8oKm.json"
+                                    "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/advisors"
                                 }
                             ]
                         }
