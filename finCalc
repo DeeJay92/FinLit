@@ -1,79 +1,79 @@
 {
-  "$jason": {
-    "head": {
-      "title": "finCalc",
-      "actions": {
-        "notify": {
-          "type": "$utill.alert"
-        }
-      }
-    },
-    "body": {
-      "header": {
-        "style": {
-          "background": "#3e6901",
-          "color": "#ffffff"
-        },
-        "title": "Salary Calculator"
-      },
-      "background": {
-        "type": "html",
-        "url": "https://www.taxtim.com/za/calculators/income-tax?utm_expid=52376554-6.IurS3oZFTCWtntUo-D92aA.0&utm_referrer=https%3A%2F%2Fwww.taxtim.com%2Fza%2Fcalculators%2F",
-        "id": "app",
-        "action": {
-          "trigger": "notify"
-        }
-      },
-      "footer": {
-        "tabs": {
-          "style": {
-            "background": "#ffffff",
-            "color": "#3e6901"
-          },
-          "items": [
-            {
-              "image": "https://png.icons8.com/ios-glyphs/60/000000/news.png",
-              "text": "News",
-              "style": {
-                "height": "21"
-              },
-              "url": "https://www.jasonbase.com/things/QBVl.json"
-            },
-            {
-              "image": "https://png.icons8.com/ios-glyphs/60/000000/budget.png",
-              "text": "Budget",
-              "style": {
-                "height": "21"
-              },
-              "url": "https://www.jasonbase.com/things/8oej.json"
-            },
-            {
-              "image": "https://png.icons8.com/ios-glyphs/60/000000/calculator.png",
-              "text": "Fin Calc",
-              "style": {
-                "height": "21"
-              },
-              "url": "https://www.jasonbase.com/things/yBe3.json"
-            },
-            {
-              "image": "https://png.icons8.com/ios-glyphs/60/000000/books.png",
-              "text": "Books",
-              "style": {
-                "height": "21"
-              },
-              "url": "https://www.jasonbase.com/things/1drx.json"
-            },
-            {
-              "image": "https://png.icons8.com/ios-glyphs/60/000000/consultation.png",
-              "text": "Advisors",
-              "style": {
-                "height": "21"
-              },
-              "url": "https://www.jasonbase.com/things/8oKm.json"
+    "$jason": {
+        "head": {
+            "title": "finCalc",
+            "actions": {
+                "notify": {
+                    "type": "$utill.alert"
+                }
             }
-          ]
+        },
+        "body": {
+            "header": {
+                "style": {
+                    "background": "#3e6901",
+                    "color": "#ffffff"
+                },
+                "title": "Salary Calculator"
+            },
+            "background": {
+                "type": "html",
+                "url": "https://www.taxtim.com/za/calculators/income-tax?utm_expid=52376554-6.IurS3oZFTCWtntUo-D92aA.0&utm_referrer=https%3A%2F%2Fwww.taxtim.com%2Fza%2Fcalculators%2F",
+                "id": "app",
+                "action": {
+                    "trigger": "notify"
+                }
+            },
+            "footer": {
+                "tabs": {
+                    "style": {
+                        "background": "#ffffff",
+                        "color": "#3e6901"
+                    },
+                    "items": [
+                        {
+                            "image": "https://png.icons8.com/ios-glyphs/60/000000/news.png",
+                            "text": "News",
+                            "style": {
+                                "height": "21"
+                            },
+                            "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/newList"
+                        },
+                        {
+                            "image": "https://png.icons8.com/ios-glyphs/60/000000/budget.png",
+                            "text": "Budget",
+                            "style": {
+                                "height": "21"
+                            },
+                            "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/budget"
+                        },
+                        {
+                            "image": "https://png.icons8.com/ios-glyphs/60/000000/calculator.png",
+                            "text": "Fin Calc",
+                            "style": {
+                                "height": "21"
+                            },
+                            "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/finCalc"
+                        },
+                        {
+                            "image": "https://png.icons8.com/ios-glyphs/60/000000/books.png",
+                            "text": "Books",
+                            "style": {
+                                "height": "21"
+                            },
+                            "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/books"
+                        },
+                        {
+                            "image": "https://png.icons8.com/ios-glyphs/60/000000/consultation.png",
+                            "text": "Advisors",
+                            "style": {
+                                "height": "21"
+                            },
+                            "url": "https://raw.githubusercontent.com/DeeJay92/FinLit/master/advisors"
+                        }
+                    ]
+                }
+            }
         }
-      }
     }
-  }
 }
